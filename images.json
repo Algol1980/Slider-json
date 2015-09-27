@@ -1,0 +1,28 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "title": "First image",
+            "path": "http://algol1980.github.io/Slider-json/img/img01.jpg",
+            "descr": "Laboris dolor minim exercitation deserunt quis nisi voluptate. Officia cillum qui dolor fugiat labore duis et laboris veniam nulla. Amet amet tempor pariatur reprehenderit sunt. In in cupidatat a"
+        },
+        {
+            "id": 2,
+            "title": "Second image",
+            "path": "http://algol1980.github.io/Slider-json/img/img02.jpg",
+            "descr": "Laboris dolor minim exercitation deserunt quis nisi voluptate. Officia cillum qui dolor fugiat labore duis et laboris veniam nulla. Amet amet tempor pariatur reprehenderit sunt. In in cupidatat a"
+        },
+        {
+            "id": 3,
+            "title": "Third image",
+            "path": "http://algol1980.github.io/Slider-json/img/img03.jpg",
+            "descr": "Laboris dolor minim exercitation deserunt quis nisi voluptate. Officia cillum qui dolor fugiat labore duis et laboris veniam nulla. Amet amet tempor pariatur reprehenderit sunt. In in cupidatat a"
+        },
+        {
+            "id": 4,
+            "title": "Fourth image",
+            "path": "http://algol1980.github.io/Slider-json/img/img04.jpg",
+            "descr": "Laboris dolor minim exercitation deserunt quis nisi voluptate. Officia cillum qui dolor fugiat labore duis et laboris veniam nulla. Amet amet tempor pariatur reprehenderit sunt. In in cupidatat a"
+        }
+    ]
+}
